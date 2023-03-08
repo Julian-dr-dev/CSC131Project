@@ -2,7 +2,7 @@ public class Hello {
     public static void main(String[] args)
     {
         System.out.println("Welcome to Git!");
-        System.out.println("yang - This line was added by Dr. Yang.");
+        System.out.println("yang - This line was added by Dr. Yang gang.");
         // Add a new line with your information
         System.out.println("302811418 - This line was added by Julian Martinez");
 
