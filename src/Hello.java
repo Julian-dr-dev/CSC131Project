@@ -1,6 +1,5 @@
 public class Hello {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         System.out.println("Welcome to Git!");
         System.out.println("yang - This line was added by Dr. Yang gang.");
         // Add a new line with your information
@@ -14,7 +13,7 @@ public class Hello {
 
         System.out.println("218784762 - This line was added by Michael Berbach.");
 
-        System.out.println("SacStateID - This line was added by First name Last name.");
+        System.out.println("302101241 - This line was added by Penny Herrera.");
 
         System.out.println("SacStateID - This line was added by First name Last name.");
 
